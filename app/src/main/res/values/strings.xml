@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My movies</string>
+    <string name="app_version">Версія 1</string>
+    <string name="copyright">Copyright © 2021 Andriy 5 kot</string>
+
+    <!-- youtube -->
+    <string name="youtube_api_key">AIzaSyDLzExFM5xCYGIKIvzpgej2lBXJyja_YLo</string>
+    <string name="error_player">Під час інітіалізації YouTubePlayer виникла помилка (%1$s)</string>
+
+    <!--share-->
+    <string name="share_content">Я хотів би поділитися цим додатком</string>
+
+    <!--favorite-->
+    <string name="whops">Йоой!</string>
+    <string name="favorite_added">Додано в закладки</string>
+    <string name="favorite_removed">Видалено із закладок</string>
+    <string name="no_favorite_found">В закладках пусто! Додайте фільми щоб подивитися пізніше.</string>
+
+    <!--comments-->
+    <string name="title_comments">Коментарі</string>
+    <string name="title_update_comment">Коментарі</string>
+    <string name="title_send_comment">Відправити коментарі</string>
+    <string name="txt_no_comment">Напишіть свій перший коментар&#8230;</string>
+    <string name="msg_no_comment">коментарів ще нема, напишіть свій перший коментар.</string>
+    <string name="comment_hint">Напишіть свій коментар&#8230;</string>
+    <string name="confirm_send_comment">Відправити цей коментар?</string>
+    <string name="confirm_update_comment">Оновити цей коментар?</string>
+    <string name="confirm_delete_comment">Ви дійсно хочете видалити свій коментар?</string>
+    <string name="sending_comment">Відправка коментаря&#8230;</string>
+    <string name="updating_comment">Оновлення коментаря&#8230;</string>
+    <string name="msg_comment_success">Ваш коментар успішно доданий</string>
+    <string name="msg_comment_failed">Не вдалося опублікувати коментар!</string>
+    <string name="msg_comment_update">Ваш коментар успішно оновлений</string>
+    <string name="msg_update_comment_failed">Не вдалось оновити коментар</string>
+    <string name="msg_comment_approval">Дякуємо, ваші коментарі відправлені і будуть додані після ухвалення</string>
+    <string name="msg_write_comment">Будь-ласка, напишіть коментар першим&#8230;</string>
+    <string name="msg_write_comment_character">ваше повідомлення менше 6 символів&#8230;</string>
+    <string name="txt_read">Читати</string>
+    <string name="txt_comment">Коментарі</string>
+    <string name="txt_comments">Коментарі</string>
+    <string name="txt_you">ви</string>
+
+    <!--register-->
+    <string name="register_title">Дякуєо за реєстрацію</string>
+    <string name="register_success">Ви успішно зареєстровані&#8230;</string>
+    <string name="register_process">реєстрація вашого аккаунту&#8230;</string>
+    <string name="register_exist">Email адреса уже використовується!</string>
+    <string name="terms_text">Створюючи аккаунт, ви погоджуєтесь з нашими</string>
+    <string name="terms_n_privacy">Політика конфіденційності</string>
+    <string name="title_please_wait">Будьласка зачекайте&#8230;</string>
+    <string name="already_have_account">Уже маєте аккаунт?</string>
+
+    <!--login-->
+    <string name="login_title">Чудово!</string>
+    <string name="login_process">Processing login to your account&#8230;</string>
+    <string name="login_success">Вхід виконаний&#8230;</string>
+    <string name="login_failed">Неправильний Email або Пароль!</string>
+    <string name="login_disabled">Аккаунт відключений, будьласка звяжіться з адміністратором.</string>
+    <string name="login_required">Будьласка увійдіть щоб лишити коментар.</string>
+    <string name="do_not_have_account">У меня немає аккаунту?</string>
+    <string name="register_now">Реєстрація</string>
+
+    <!--logout-->
+    <string name="logout_title">Вихід</string>
+    <string name="logout_message">Ви впевнені що хочете вийти?</string>
+    <string name="logout_process">Вихід з облікового записус&#8230;</string>
+    <string name="logout_success">Вихід виконано</string>
+
+    <!--forgot password-->
+    <string name="forgot_message">Введіть адресу електронної пошти, яку використовували при реєстрації.</string>
+    <string name="forgot_failed_message">Email не знайдено в нашій базі!</string>
+    <string name="forgot_success_message">Пароль був відправленийна вашу пошту!</string>
+    <string name="forgot_password">Забули пароль?</string>
+
+    <!--permission-->
+    <string name="permission_msg">Требуется разрешения</string>
+    <string name="permission_upload">Это приложение должно иметь доступ, чтобы загрузить фотографию.</string>
+    <string name="download_msg">Загрузка&#8230;</string>
+    <string name="download_success">Зображення було завантажено і збережено в галереї.</string>
+
+    <!-- toolbar and title-->
+    <string name="title_menu_profile">Налаштування</string>
+    <string name="title_menu_close">Закрити</string>
+    <string name="title_menu_save">Зберегти</string>
+    <string name="title_menu_send">Відправити</string>
+    <string name="title_menu_later">Закладки</string>
+    <string name="title_menu_share">Поділитися</string>
+    <string name="title_menu_search">Пошук&#8230;</string>
+    <string name="title_menu_browser">відкрити в браузері</string>
+    <string name="title_login">Логін</string>
+    <string name="title_register">РЕЄСТРАЦІЯ</string>
+    <string name="title_forgot_password">ВІДНОВИТИ ПАРОЛЬ</string>
+
+    <!--bottom navigation title-->
+    <string name="title_nav_home">Головна</string>
+    <string name="title_nav_category">Жанри</string>
+    <string name="title_nav_video">Фільми</string>
+    <string name="title_nav_favorite">Закладки</string>
+    <string name="title_nav_profile">Налаштування</string>
+
+    <!--network message-->
+    <string name="offline">Ви не в мережі</string>
+    <string name="msg_offline">Наступного разу, коли будете в мережі, збережіть відео в закладки щоб не втратити.</string>
+    <string name="msg_no_news">Нажаль, на даний момент немає фільмів в даній категорії..</string>
+    <string name="msg_no_category">Нажаль, категорія не знайдена</string>
+    <string name="msg_no_news_found">Відео не знайдено! Якщо ви хочете продовжити пошук, спробуйте ввести інше ключове слово</string>
+    <string name="msg_no_network">Нажаль щось не так з мережею. Спробуйте пізніше</string>
+    <string name="msg_search_input">Будьласка, виконайте пошуковий запит</string>
+    <string name="btn_retry">ПОВТОРИТИ</string>
+
+    <!--dialog choose option-->
+    <string name="dialog_success">Чудово!</string>
+    <string name="dialog_yes">ТАК</string>
+    <string name="dialog_no">НІ</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Відміна</string>
+    <string name="dialog_read_more">Продовження</string>
+    <string name="dialog_dismiss">Відхилити</string>
+    <string name="dialog_settings">В НАЛАШТУВАННЯ</string>
+
+    <!--form-->
+    <string name="edt_name">Ім`я</string>
+    <string name="edt_email">Email</string>
+    <string name="edt_password">Пароль</string>
+
+    <!--button-->
+    <string name="btn_login">ЛОГІН</string>
+    <string name="btn_register">РЕЄСТРАЦІЯ</string>
+    <string name="btn_send">ВІДПРАВИТИ</string>
+
+    <!--profile-->
+    <string name="txt_profile_edit">РЕДАГУВАТИ</string>
+    <string name="txt_profile_welcome">Ласкаво просимо!</string>
+    <string name="txt_profile_not_registered">Не зареєстровані?</string>
+    <string name="txt_profile_register_now">Зареєструватися</string>
+    <string name="txt_profile_login">ЛОГІН</string>
+    <string name="txt_profile_logout">Вихід</string>
+    <string name="updating_profile">Оновити Профіль</string>
+    <string name="waiting_message">Будьласка зачекайте&#8230;</string>
+
+    <!--package validation-->
+
+    <!--close message-->
+    <string name="press_again_to_exit">Натисніть ще раз, щоб вийти з долатку</string>
+    <string name="admob_native_unit_id" />
+
+
+</resources>
